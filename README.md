@@ -1,1 +1,1 @@
-# EJS-Band-Generator
+# EJS-Partials-and-Layouts
